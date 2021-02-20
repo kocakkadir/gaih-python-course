@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Untitled4.ipynb
-
-"""
-
 gradeList = list() # ["midterm", "final", "homework"]
 studentList = list() #["Name","Surname"]
 studentInfo = {
