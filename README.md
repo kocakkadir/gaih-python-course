@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Python Course
 ![](img/logo.png)
 
 **Course Date:** 15.02.2020  
